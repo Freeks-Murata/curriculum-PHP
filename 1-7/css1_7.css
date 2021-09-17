@@ -1,0 +1,118 @@
+.clearflx::after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.Abox1 {
+    float: left
+}
+
+.Abox2 {
+    float: left
+}
+
+.Aheader {
+    width: 400px;
+    height: 100px;
+    background-color: #141f40;
+}
+
+.Aleft {
+    width: 150px;
+    height: 250px;
+    background-color: #80bfa8;
+    float: left;
+}
+
+.Atop {
+    width: 250px;
+    height: 100px;
+    background-color: #0093b7;
+}
+
+.Amiddle {
+    width: 100px;
+    height: 150px;
+    background-color: #dbd403;
+    float: left;
+}
+
+.Aright {
+    width: 150px;
+    height: 50px;
+    background-color: #ff9e6b;
+}
+
+.Abottom {
+    width: 150px;
+    height: 100px;
+    background-color: #8c2727;
+}
+
+.Afooter {
+    width: 400px;
+    height: 100px;
+    background-color: #d98d30;
+}
+
+.space {
+    height: 100px;
+}
+
+.Bheader {
+    width: 400px;
+    height: 100px;
+    background-color: #141f40;
+}
+
+.Bbigbox {
+    float: left;
+}
+
+.Bbox2 {
+    float: left;
+}
+
+.box3 {
+    float: left;
+}
+
+.Bleft {
+    width: 100px;
+    height: 150px;
+    background-color: #dbd403;
+    float: left;
+}
+
+.Btop {
+    width: 150px;
+    height: 50px;
+    background-color: #8c2727;
+}
+
+.Bmiddle {
+    width: 150px;
+    height: 100px;
+    background-color: #ff9e6b;
+    float: left;
+}
+
+.Bbottom {
+    width: 250px;
+    height: 100px;
+    background-color: #0093b7;
+}
+
+.Bright {
+    width: 150px;
+    height: 250px;
+    background-color: #80bfa8;
+    float: left;
+}
+
+.Bfooter {
+    width: 400px;
+    height: 100px;
+    background-color: #d98d30;
+}
