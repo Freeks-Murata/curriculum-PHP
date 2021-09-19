@@ -1,8 +1,8 @@
 <?php
-$fluits = ["りんご", "みかん", "もも"];
+$fruits = ["りんご", "みかん", "もも"];
 
-$fluits = ["apple" => "りんご", "orange" => "みかん", "peach" => "もも"];
-foreach ($fluits as $key => $value) {
+$fruits = ["apple" => "りんご", "orange" => "みかん", "peach" => "もも"];
+foreach ($fruits as $key => $value) {
         echo $key."といったら".$value."<br>";
 }
 ?>
